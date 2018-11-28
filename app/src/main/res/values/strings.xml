@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search Hashtags</string>
+    <string name="error">Error</string>
+    <string name="twitter_error">Unable to connect to Twitter</string>
+</resources>
